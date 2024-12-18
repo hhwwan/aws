@@ -22,3 +22,9 @@ dependencies {
 test {
     useJUnitPlatform()
 }
+
+// Java 버전 설정 추가
+java {
+    sourceCompatibility = JavaVersion.VERSION_17
+    targetCompatibility = JavaVersion.VERSION_17
+}
