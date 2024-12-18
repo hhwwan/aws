@@ -7,6 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class hwanServiceApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(hwanServiceApplication.class, args);
+        SpringApplication.run(hwanServiceApplication.class, args); //test
     }
 }
